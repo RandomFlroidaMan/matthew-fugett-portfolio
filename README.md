@@ -8,4 +8,4 @@ Upload the contents of this directory to a static web host to deploy. No deploym
 
 The original portfolio is represented by 20 case-study entries; its 23-project headline includes grouped utilities. All 28 supplied screenshots retain the original redactions. The supplied HTML's builder notes are not published.
 
-Full name, email, LinkedIn profile, and downloadable résumé are configured. Pending owner asset: portrait. Replace the monogram portrait when the photo is supplied.
+Full name, email, LinkedIn profile, and downloadable résumé are configured. The About section uses assets/Professional_Headshot.jpg, preserving the original photo framing.
